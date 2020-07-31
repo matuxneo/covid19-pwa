@@ -6,6 +6,11 @@ import UsaFlag from 'assets/images/usa.png';
 
 const COUNTRIES = [
   {
+    label: 'Mundo',
+    value: 'world',
+    flag: BrazilFlag,
+  },
+  {
     label: 'Espanha',
     value: 'spain',
     flag: BrazilFlag,
